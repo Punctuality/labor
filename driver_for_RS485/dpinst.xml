@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" ?>
+<dpinst>
+<enableNotListedLanguages/>
+<language code="0x0401">
+<dpinstTitle>Virtual COM Port Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to Silicon Labs VCP Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the VCP (Virtual COM Port) drivers for SKLab USB device.</welcomeIntro>
+<installHeaderTitle>Installing the VCP software for SKLab devices...</installHeaderTitle>
+<finishTitle>Completing the Installation of VCP Driver</finishTitle>
+</language>
+<language code="0x0804">
+<dpinstTitle>Virtual COM Port Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to Silicon Labs VCP Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the VCP (Virtual COM Port) drivers for SKLab USB device.</welcomeIntro>
+<installHeaderTitle>Installing the VCP software for SKLab devices...</installHeaderTitle>
+<finishTitle>Completing the Installation of VCP Driver</finishTitle>
+</language>
+<language code="0x0404">
+<dpinstTitle>Virtual COM Port Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to Silicon Labs VCP Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the VCP (Virtual COM Port) drivers for SKLab USB device.</welcomeIntro>
+<installHeaderTitle>Installing the VCP software for SKLab devices...</installHeaderTitle>
+<finishTitle>Completing the Installation of VCP Driver</finishTitle>
+</language>
+<language code="0x0405">
+<dpinstTitle>Virtual COM Port Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to Silicon Labs VCP Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the VCP (Virtual COM Port) drivers for SKLab USB device.</welcomeIntro>
+<installHeaderTitle>Installing the VCP software for SKLab devices...</installHeaderTitle>
+<finishTitle>Completing the Installation of VCP Driver</finishTitle>
+</language>
+<language code="0x0406">
+<dpinstTitle>Virtual COM Port Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to Silicon Labs VCP Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the VCP (Virtual COM Port) drivers for SKLab USB device.</welcomeIntro>
+<installHeaderTitle>Installing the VCP software for SKLab devices...</installHeaderTitle>
+<finishTitle>Completing the Installation of VCP Driver</finishTitle>
+</language>
+<language code="0x0407">
+<dpinstTitle>Virtual COM Port Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to Silicon Labs VCP Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the VCP (Virtual COM Port) drivers for SKLab USB device.</welcomeIntro>
+<installHeaderTitle>Installing the VCP software for SKLab devices...</installHeaderTitle>
+<finishTitle>Completing the Installation of VCP Driver</finishTitle>
+</language>
+<language code="0x0408">
+<dpinstTitle>Virtual COM Port Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to Silicon Labs VCP Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the VCP (Virtual COM Port) drivers for SKLab USB device.</welcomeIntro>
+<installHeaderTitle>Installing the VCP software for SKLab devices...</installHeaderTitle>
+<finishTitle>Completing the Installation of VCP Driver</finishTitle>
+</language>
+<language code="0x0409">
+<dpinstTitle>Virtual COM Port Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to Silicon Labs VCP Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the VCP (Virtual COM Port) drivers for SKLab USB device.</welcomeIntro>
+<installHeaderTitle>Installing the VCP software for SKLab devices...</installHeaderTitle>
+<finishTitle>Completing the Installation of VCP Driver</finishTitle>
+</language>
+<language code="0x0C0A">
+<dpinstTitle>Virtual COM Port Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to Silicon Labs VCP Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the VCP (Virtual COM Port) drivers for SKLab USB device.</welcomeIntro>
+<installHeaderTitle>Installing the VCP software for SKLab devices...</installHeaderTitle>
+<finishTitle>Completing the Installation of VCP Driver</finishTitle>
+</language>
+<language code="0x040B">
+<dpinstTitle>Virtual COM Port Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to Silicon Labs VCP Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the VCP (Virtual COM Port) drivers for SKLab USB device.</welcomeIntro>
+<installHeaderTitle>Installing the VCP software for SKLab devices...</installHeaderTitle>
+<finishTitle>Completing the Installation of VCP Driver</finishTitle>
+</language>
+<language code="0x040C">
+<dpinstTitle>Virtual COM Port Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to Silicon Labs VCP Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the VCP (Virtual COM Port) drivers for SKLab USB device.</welcomeIntro>
+<installHeaderTitle>Installing the VCP software for SKLab devices...</installHeaderTitle>
+<finishTitle>Completing the Installation of VCP Driver</finishTitle>
+</language>
+<language code="0x040D">
+<dpinstTitle>Virtual COM Port Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to Silicon Labs VCP Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the VCP (Virtual COM Port) drivers for SKLab USB device.</welcomeIntro>
+<installHeaderTitle>Installing the VCP software for SKLab devices...</installHeaderTitle>
+<finishTitle>Completing the Installation of VCP Driver</finishTitle>
+</language>
+<language code="0x040E">
+<dpinstTitle>Virtual COM Port Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to Silicon Labs VCP Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the VCP (Virtual COM Port) drivers for SKLab USB device.</welcomeIntro>
+<installHeaderTitle>Installing the VCP software for SKLab devices...</installHeaderTitle>
+<finishTitle>Completing the Installation of VCP Driver</finishTitle>
+</language>
+<language code="0x0410">
+<dpinstTitle>Virtual COM Port Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to Silicon Labs VCP Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the VCP (Virtual COM Port) drivers for SKLab USB device.</welcomeIntro>
+<installHeaderTitle>Installing the VCP software for SKLab devices...</installHeaderTitle>
+<finishTitle>Completing the Installation of VCP Driver</finishTitle>
+</language>
+<language code="0x0411">
+<dpinstTitle>Virtual COM Port Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to Silicon Labs VCP Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the VCP (Virtual COM Port) drivers for SKLab USB device.</welcomeIntro>
+<installHeaderTitle>Installing the VCP software for SKLab devices...</installHeaderTitle>
+<finishTitle>Completing the Installation of VCP Driver</finishTitle>
+</language>
+<language code="0x0412">
+<dpinstTitle>Virtual COM Port Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to Silicon Labs VCP Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the VCP (Virtual COM Port) drivers for SKLab USB device.</welcomeIntro>
+<installHeaderTitle>Installing the VCP software for SKLab devices...</installHeaderTitle>
+<finishTitle>Completing the Installation of VCP Driver</finishTitle>
+</language>
+<language code="0x0414">
+<dpinstTitle>Virtual COM Port Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to Silicon Labs VCP Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the VCP (Virtual COM Port) drivers for SKLab USB device.</welcomeIntro>
+<installHeaderTitle>Installing the VCP software for SKLab devices...</installHeaderTitle>
+<finishTitle>Completing the Installation of VCP Driver</finishTitle>
+</language>
+<language code="0x0413">
+<dpinstTitle>Virtual COM Port Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to Silicon Labs VCP Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the VCP (Virtual COM Port) drivers for SKLab USB device.</welcomeIntro>
+<installHeaderTitle>Installing the VCP software for SKLab devices...</installHeaderTitle>
+<finishTitle>Completing the Installation of VCP Driver</finishTitle>
+</language>
+<language code="0x0415">
+<dpinstTitle>Virtual COM Port Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to Silicon Labs VCP Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the VCP (Virtual COM Port) drivers for SKLab USB device.</welcomeIntro>
+<installHeaderTitle>Installing the VCP software for SKLab devices...</installHeaderTitle>
+<finishTitle>Completing the Installation of VCP Driver</finishTitle>
+</language>
+<language code="0x0416">
+<dpinstTitle>Virtual COM Port Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to Silicon Labs VCP Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the VCP (Virtual COM Port) drivers for SKLab USB device.</welcomeIntro>
+<installHeaderTitle>Installing the VCP software for SKLab devices...</installHeaderTitle>
+<finishTitle>Completing the Installation of VCP Driver</finishTitle>
+</language>
+<language code="0x0816">
+<dpinstTitle>Virtual COM Port Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to Silicon Labs VCP Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the VCP (Virtual COM Port) drivers for SKLab USB device.</welcomeIntro>
+<installHeaderTitle>Installing the VCP software for SKLab devices...</installHeaderTitle>
+<finishTitle>Completing the Installation of VCP Driver</finishTitle>
+</language>
+<language code="0x0419">
+<dpinstTitle>Установщик драйвера виртуального COM порта </dpinstTitle>
+<welcomeTitle>Мастер установки VCP драйвера Silicon Labs.</welcomeTitle>
+<welcomeIntro>Мастер установит  или обновит драйвер VCP (виртуfльного COM порта) фирмы Silicon Labs для  USB конвертеров интерфейсов  ООО "Лаборатория СК".</welcomeIntro>
+<installHeaderTitle>Устанавливается драйвер виртуального COM порта...</installHeaderTitle>
+<finishTitle>Установка драйвера VCP успешно завершена.</finishTitle>
+</language>
+<language code="0x041D">
+<dpinstTitle>Virtual COM Port Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to Silicon Labs VCP Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the VCP (Virtual COM Port) drivers for SKLab USB device.</welcomeIntro>
+<installHeaderTitle>Installing the VCP software for SKLab devices...</installHeaderTitle>
+<finishTitle>Completing the Installation of VCP Driver</finishTitle>
+</language>
+<language code="0x041F">
+<dpinstTitle>Virtual COM Port Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to Silicon Labs VCP Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the VCP (Virtual COM Port) drivers for SKLab USB device.</welcomeIntro>
+<installHeaderTitle>Installing the VCP software for SKLab devices...</installHeaderTitle>
+<finishTitle>Completing the Installation of VCP Driver</finishTitle>
+</language>
+</dpinst>
